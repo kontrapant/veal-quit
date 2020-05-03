@@ -2,6 +2,8 @@
 
 (defvar +veal-quit-messages
   '(;; Grepyugo
+    "the Cyber-Nuke again, huh?"
+    "I've infiltrated your mind my newly developed mûûgen tsukiyo-- NANI?!?"
 
     ;; kontrapant
     "The Veal has been cooked thoroughly..."
