@@ -8,6 +8,14 @@
     ;; kontrapant
     "The Veal has been cooked thoroughly..."
     "(chuckles) I'm in danger."
+    "I thought you were BAE...  Turns out you're just Fam..."
+    "OLL IN THE STREETS IT'S SIX-A-BONG!"
+    "STAHP! I could have dropped my Croissant!"
+    "Oi! You avin a giggle there m8?!"
+    "The frozzleberries tastes like banozzleberries!"
+    "This is NOT a Cult!"
+    "Padon me, I'm only bleeding"
+    "Did you support kantian ehtics before the brain injury?"
     )
   )
 
