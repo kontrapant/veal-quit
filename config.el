@@ -1,6 +1,6 @@
-;;; ui/doom-quit/config.el -*- lexical-binding: t; -*-
+;;; ui/veal-quit/config.el -*- lexical-binding: t; -*-
 
-(defvar +doom-quit-messages
+(defvar +veal-quit-messages
   '(;; from Doom 1
     "Please don't leave, there's more demons to toast!"
     "Let's beat it -- This is turning into a bloodbath!"
@@ -22,11 +22,11 @@
   "A list of quit messages, picked randomly by `+doom-quit'. Taken from
 http://doom.wikia.com/wiki/Quit_messages and elsewhere.")
 
-(defun +doom-quit-fn (&rest _)
+(defun +veal-quit-fn (&rest _)
   (doom-quit-p
    (format "%s  Quit?"
-           (nth (random (length +doom-quit-messages))
-                +doom-quit-messages))))
+           (nth (random (length +veal-quit-messages))
+                +veal-quit-messages))))
 
 ;;
-(setq confirm-kill-emacs #'+doom-quit-fn)
+(setq confirm-kill-emacs #'+veal-quit-fn)
