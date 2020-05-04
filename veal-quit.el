@@ -7,7 +7,7 @@
     "Remember Henrik: With great elisp comes great reliability..."
     "W- Wa- Wait! Would you rather fight a ripped nerd or a jock who listens to jazz?"
     "Three words, eight letters and I'm yours. 'I is DOLAN'"
-    "You could not live with your own Emacs. And where did it bring you? Back to me..."
+    "You could not live with your vanilla Emacs. And where did it bring you? Back to me..."
     "Working with me is like finding out the song you always skipped is actually fire LMFAOOOO"
     "Emacs is like a sandwich; no matter which way you flip it, the elisp comes first. -Stallman"
     "Can you finish him?"
