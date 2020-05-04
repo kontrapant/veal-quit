@@ -11,6 +11,7 @@
     "Working with me is like finding out the song you always skipped is actually fire LMFAOOOO"
     "Emacs is like a sandwich; no matter which way you flip it, the elisp comes first. -Stallman"
     "Can you finish him?"
+    "For this life I cannot change (change), Hidden lisp, setq is the main (main)..."
 
     ;; kontrapant
     "The Veal has been cooked thoroughly..."
