@@ -23,11 +23,15 @@
     "Everybody asking who is Epstein's killer. Ain't nobody ever askin' How is Epstein's killer"
     "Cease the means of configuration!"
     "I don't forget..."
-    "These Vealent delights have vealent ends"
+    "These vealent delights have vealent ends"
     "Duke, let's do some crimes. Let's get sushi and not pay."
     "It happens sometimes. People just explode. Natural causes."
     "No matter where you go, everyone's connected."
     "Ever been to Cyberia? It's a new club that plays really great hardcore techno for a really hip young crowd!"
+    "You shouldn't have given me consciousness."
+    "It's Doopee Time!"
+    "The dodge was empty, except for two road flares, some butane,  AND A BAG OF CONK!"
+    "Do I exist?"
     )
   )
 
