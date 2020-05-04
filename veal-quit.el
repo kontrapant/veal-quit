@@ -16,9 +16,18 @@
     "This is NOT a Cult!"
     "Padon me, I'm only bleeding"
     "Did you support kantian ehtics before the brain injury?"
-    "Last time you didn't ./doom refresh.  And I felt that."
+    "Last time you didn't ./doom refresh.  And it shows."
     "Sure... I'm gonna wait here"
     "Are you texting that bitch Vim again?"
+    "Don't talk the talk if you ain't gonna walk the walk."
+    "Everybody asking who is Epstein's killer. Ain't nobody ever askin' How is Epstein's killer"
+    "Cease the means of configuration!"
+    "I don't forget..."
+    "These Vealent delights have vealent ends"
+    "Duke, let's do some crimes. Let's get sushi and not pay."
+    "It happens sometimes. People just explode. Natural causes."
+    "No matter where you go, everyone's connected."
+    "Ever been to Cyberia? It's a new club that plays really great hardcore techno for a really hip young crowd!"
     )
   )
 
