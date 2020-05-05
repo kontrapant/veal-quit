@@ -51,7 +51,7 @@
     " ⦓ EVAL/APPLY ⦔    (can you feel the magick?)  "
     "To say the essent is not or the non-essent is, is False; to say the essent is or the non-essent is not, it True, AMIRITE?"
     "Stop fucking around and drink more Sportwasser"
-    "The Orientation of a subject in the transversal plane shall be described in vein of a clock that has been layed on its Proktos."
+    "The Orientation of a vernal subject shall be described in vein of a clock that has been layed on its Proktos."
     )
   )
 
