@@ -42,12 +42,16 @@
     "Do I exist?"
     "BOO!   Did i spook you?"
     "Just Do It! (☞ﾟヮﾟ)☞"
-    "No, you can't pass! you need a Poké Flute to get past this Snorlax!   (￣ー￣)"
+    "You can't pass! you need a Poké Flute to get past this Snorlax...   (￣ー￣)"
     "(　´,_ゝ`)ﾌﾟ "
     " ┌( ಠ_ಠ)┘  ... Why did we stop dancing? "
     "No Jordan, I won't clean my room"
     "Hey, it's fine. I don't understand the difference between marxism and post-structuralism either."
     "Oi yer filthy bastehrd. How aboot ye stop wankin around n start lernin som eh-Lisp?"
+    " ⦓ EVAL/APPLY ⦔    (can you feel the magick?)  "
+    "To say the essent is not or the non-essent is, is False; to say the essent is or the non-essent is not, it True, AMIRITE?"
+    "Stop fucking around and drink more Sportwasser"
+    "The Orientation of a subject in the transversal plane shall be described in vein of a clock that has been layed on its Proktos."
     )
   )
 
