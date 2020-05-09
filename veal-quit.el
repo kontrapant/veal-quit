@@ -53,6 +53,7 @@
     "Stop fucking around and drink more Sportwasser"
     "The Orientation of a vernal subject shall be described in vein of a clock that has been layed on its Proktos."
     "Don't ggVGd me!"
+    "Don't quit! Blixa Bargerld wouldn't be proud of you."
     )
   )
 
