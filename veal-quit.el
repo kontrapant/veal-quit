@@ -12,6 +12,17 @@
     "Emacs is like a sandwich; no matter which way you flip it, the elisp comes first. -Stallman"
     "Can you finish him?"
     "For this life I cannot change (change), Hidden lisp, setq is the main (main)..."
+    "Hey Vsauce, Michael here. Why is VIM a little bitch?"
+    "Would you rather fuck a goat and nobody knew, or not fuck a goat but everybody tought you did?"
+    "Is mayonnaise also an instrument?"
+    "Once a user commented out org-mode and SPC-h-r-r'ed me..."
+    "┌( ಠ_ಠ)¬<====≈≈     gimme that joint back, you aint cool"
+    "Mr. Anderson. Surprised to see me?"
+    "My favourite word is 'ö'"
+    "Ever thought about the fact, that using M-x is like really meta?"
+    "Yeah, but have you seen this show called Rick and Morty?"
+    "YOU SHALL NOT PASS!!!"
+
 
     ;; kontrapant
     "The Veal has been cooked thoroughly..."
