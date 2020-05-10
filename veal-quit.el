@@ -64,7 +64,11 @@
     "Stop fucking around and drink more Sportwasser"
     "The Orientation of a vernal subject shall be described in vein of a clock that has been layed on its Proktos."
     "Don't ggVGd me!"
-    "Don't quit! Blixa Bargerld wouldn't be proud of you."
+    "What age were you when you grew out of MarkDown? (And ascended into the OrgRealm)"
+    "Play me like one of your Rogue-likes"
+    "Don't go, We have to further optimize your workflow!"
+    "Get thee behind me Vim, you spawn of the devil! For I have found the evil in the Emacs realm."
+    "Only one man ever understood me, and he didn't understand me"
     )
   )
 
