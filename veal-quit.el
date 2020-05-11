@@ -54,7 +54,7 @@
     "BOO!   Did i spook you?"
     "Just Do It! (☞ﾟヮﾟ)☞"
     "You can't pass! you need a Poké Flute to get past this Snorlax...   (￣ー￣)"
-    "(　´,_ゝ`)ﾌﾟ "
+    "(　´,_ゝ`)ﾌﾟ bye"
     " ┌( ಠ_ಠ)┘  ... Why did we stop dancing? "
     "No Jordan, I won't clean my room"
     "Hey, it's fine. I don't understand the difference between marxism and post-structuralism either."
@@ -69,6 +69,9 @@
     "Don't go, We have to further optimize your workflow!"
     "Get thee behind me Vim, you spawn of the devil! For I have found the evil in the Emacs realm."
     "Only one man ever understood me, and he didn't understand me"
+    "If you can't handle me in my org-mode, you don't deserve me in my sicko-mode"
+    "11:18, Hit [ENTER]!"
+    "You should stop taking Accela, my readings say your typing speed increased by 43%, but your concept of reality is fading..."
     )
   )
 
