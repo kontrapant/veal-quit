@@ -11,10 +11,10 @@
     "Working with me is like finding out the song you always skipped is actually fire LMFAOOOO   Quit?"
     "Emacs is like a sandwich; no matter which way you flip it, the elisp comes first. -Stallman   Quit?"
     "Can you finish him?   Quit?"
-    "For this life I cannot change (change), Hidden lisp, setq is the main (main)...   Quit?"
+    "For this life I cannot change (change), Hidden lisp, setq is the main (main)...   Quit (quit)?"
     "Hey Vsauce, Michael here. Why is VIM a little bitch?   Quit?"
     "Would you rather fuck a goat and nobody knew, or not fuck a goat but everybody tought you did?   Quit?"
-    "Is mayonnaise also an instrument?   Quit?"
+    "Is mayonnaise also an instrument?"
     "Once a user commented out org-mode and SPC-h-r-r'ed me...   Quit?"
     "┌( ಠ_ಠ)¬<====≈≈     gimme that joint back, you aint cool   Quit?"
     "Mr. Anderson. Surprised to see me?   Quit?"
@@ -22,6 +22,9 @@
     "Ever thought about the fact, that using M-x is like really meta?   Quit?"
     "Yeah, but have you seen this show called Rick and Morty?   Quit?"
     "YOU SHALL NOT PASS!!!   Quit?"
+    "Fotzen hier los um Pimmelwillen?"
+    "SPC-q-q stands for 'QUIT'    Did mama raise a quitter?"
+    "The Levenshtein distance between 'Quit' and 'Looser' is 0"
 
 
     ;; kontrapant
