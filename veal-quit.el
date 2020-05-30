@@ -79,6 +79,8 @@
     "J946@5488AA97464   Do websearch for this strange code?"
     "The Wired is really the same thing as the real world.    True?"
     "Let me tell you about the effectiveness of applying the Schumann Resonance to the wired.    Stick finger in ears, sing LALALA and slowly walk away?"
+    "Count Tuple of Fastington called, you weren't fast enough...  Sanic se Hashhog got the job."
+    "'Is it nargs or ngrams?'     Does it even matter?"
     )
   )
 
