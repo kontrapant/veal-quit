@@ -84,6 +84,7 @@
     "'Is it nargs or ngrams?'     Does it even matter?"
     "Do you want me to explain the inclusive 'or' or do you already know about it?      "
     "Hey, why do you look so sad? Are you having (defun)?      "
+    "'Veal-Team are such meatheads! Also their work doesn't adhere to soyentific standards!'      Believe this heresy?"
     )
   )
 
