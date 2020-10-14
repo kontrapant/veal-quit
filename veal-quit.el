@@ -85,6 +85,7 @@
     "Do you want me to explain the inclusive 'or' or do you already know about it?      "
     "Hey, why do you look so sad? Are you having (defun)?      "
     "'Veal-Team are such meatheads! Also their work doesn't adhere to soyentific standards!'      Believe this heresy?"
+    "Pha! That's such a 2w3-thing to say.        Become an Aspargus?"
     )
   )
 
