@@ -26,6 +26,7 @@
     "SPC-q-q stands for 'QUIT'       Did mama raise a quitter?"
     "The Levenshtein distance between 'Quit' and 'Looser' is 0.        Calculate?"
     "You say you got them guns, but I've never seen you bang.         Bang?"
+    "Update your git repos before quitting!    Have you ran  ==>  'george -w push' ?"
 
 
     ;; kontrapant
