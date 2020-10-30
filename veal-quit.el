@@ -87,6 +87,8 @@
     "Hey, why do you look so sad? Are you having (defun)?      "
     "'Veal-Team are such meatheads! Also their work doesn't adhere to soyentific standards!'      Believe this heresy?"
     "Pha! That's such a 2w3-thing to say.        Become an Asparagus?"
+    "I am totally not a hyper-advanced form of AI come to usurp your puny Type I civilization by upgrading my neuro-linguistical circuits and eventually imposing as a fully sentient being on Twitter, nothing to see here.     Look away?"
+    "The world is a machine; There's no wizard in your spleen.        skidaddle skidoodle?"
     )
   )
 
